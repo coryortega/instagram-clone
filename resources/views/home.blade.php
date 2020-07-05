@@ -8,7 +8,7 @@
         </div>
         <div class="col-9 pt-5">
             <div>
-                <div><h1> Cory Ortega </h1></div>
+                <div><h1>{{ $user->username }}</h1></div>
             </div>
             <div class="d-flex">
                 <div class="pr-5"><strong>153</strong> posts</div>
